@@ -20,6 +20,19 @@
 > npm install
 > npm start
 ```
+### Installation In TERMUX
+```
+> sudo apt-get install git
+> sudo apt-get update
+> sudo apt-get upgrade
+> sudo apt-get install ffmpeg
+> sudo apt-get install libwebp
+> sudo apt-get install nodejs
+> git clone https://github.com/zaintech01/ZTech-Bot.git
+> cd ZTech-Bot
+> npm install
+> nppm start
+```
 
 | menu |                Feature           |
 | :-----------: | :--------------------------------: |

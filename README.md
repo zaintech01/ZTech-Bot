@@ -37,7 +37,7 @@ First Install Following Softwares
 > npm install
 > npm start
 ```
-### Installation In TERMUX
+### Installation In Linux
 ```
 > sudo apt-get install git
 > sudo apt-get update

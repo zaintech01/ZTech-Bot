@@ -91,14 +91,14 @@ First Install Following Softwares
 
 | ADVANCE |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |  /bot             |
-|       ✅        |  /hello             |
-|       ✅        |  /how are you             |
-|       ✅        |  /AslamuAlikum             |
-|       ✅        |  /wassup             |
-|       ✅        |  /baka             |
-|       ✅        |  /gay            |
-|       ✅        |  /bruh             |
+|       ✅        |  bot             |
+|       ✅        |  hello             |
+|       ✅        |  how are you             |
+|       ✅        |  AslamuAlikum             |
+|       ✅        |  wassup             |
+|       ✅        |  baka             |
+|       ✅        |  gay            |
+|       ✅        |  bruh             |
 |       ✅        |  /info             |
 |       ✅        |  /donations        |
 |       ✅        |  /owner            |

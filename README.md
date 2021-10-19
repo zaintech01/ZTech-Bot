@@ -13,7 +13,6 @@
 ### Installation In TERMUX
 
 ```bash
-> apt update && apt upgrade -y
 > pkg install git -y
 > pkg install bash -y
 > git clone https://github.com/zaintech01/ZTech-Bot.git
@@ -32,7 +31,7 @@
 > git clone https://github.com/zaintech01/ZTech-Bot.git
 > cd ZTech-Bot
 > npm install
-> nppm start
+> npm start
 ```
 
 | menu |                Feature           |

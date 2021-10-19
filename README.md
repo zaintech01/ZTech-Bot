@@ -3,7 +3,24 @@
 ## About Bot
 > This Bot Is Still Under Construction
 > contact me on whats app for help : +923178022596
-> 
+
+## Getting Started
+
+This project require NodeJS v12.
+
+ ## 🔍 Installation In Windows
+First Install Following Softwares
+
+* [Ffmpeg](https://ffmpeg.org/download.html)
+* [ImageMagick](https://imagemagick.org/script/download.php)
+* [Libwebp](https://developers.google.com/speed/webp/download) (optional)
+ 
+# 📝 Prerequisites
+
+- git
+- npm >=2.0.32
+- node >=12.18.3
+
 ##Requirements
 ```
 > nodejs
@@ -33,7 +50,7 @@
 > npm install
 > npm start
 ```
-
+### Prefix = /
 | menu |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | /help                       |

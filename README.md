@@ -20,13 +20,13 @@ First Install Following Softwares
 * [Libwebp](https://developers.google.com/speed/webp/download) (optional)
  
 # 📝 Prerequisites
-
+```bash
 - git
 - npm >=2.0.32
 - node >=12.18.3
-
-##Requirements
 ```
+##Requirements
+```bash
 > nodejs
 > libwebp
 > ffmpeg
@@ -42,7 +42,7 @@ First Install Following Softwares
 > npm start
 ```
 ### Installation In Linux
-```
+```bash
 > sudo apt-get install git
 > sudo apt-get update
 > sudo apt-get upgrade

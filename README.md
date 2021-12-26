@@ -13,7 +13,10 @@
 > If You Face Any Error In npm i command Then download node modlues zip file and extract in bot files folder
 > Download link : https://drive.google.com/file/d/1zFuQ7OSiAV58nfB7pWp0SheaMLB0OB9f/view?usp=sharing
 ```
-
+```bash
+> Fixed Baileys Error
+> Fixed Odd Group Id Error
+```
 ## Getting Started
 
 This project require NodeJS v12.

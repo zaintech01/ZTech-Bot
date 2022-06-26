@@ -26,7 +26,7 @@
     "google-it": "^1.6.2",
     "human-readable": "^0.2.1",
     "jsdom": "^16.5.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-gtts": "^2.0.2",
     "qrcode": "^1.4.4",
     "sleep": "^6.3.0",

@@ -30,7 +30,7 @@
     "node-gtts": "^2.0.2",
     "qrcode": "^1.4.4",
     "sleep": "^6.3.0",
-    "socket.io": "^4.0.1",
+    "socket.io": "^4.6.1",
     "syntax-error": "^1.4.0",
     "terminal-image": "^1.2.1",
     "translate-google-api": "^1.0.4",
